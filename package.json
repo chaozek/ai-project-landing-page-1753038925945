@@ -1,0 +1,8 @@
+{
+  "name": "ai-generated-project",
+  "version": "1.0.0",
+  "description": "AI generated project",
+  "scripts": {
+    "start": "echo 'Project is ready!'"
+  }
+}
